@@ -1,3 +1,6 @@
 [submodule "mama-stocker-backend"]
 	path = mama-stocker-backend
 	url = git@github.com-beethoreven:beethoreven/mama-stocker-backend.git
+[submodule "router-backend"]
+	path = router-backend
+	url = git@github.com-beethoreven:beethoreven/router-backend.git
